@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @MazdoTheWolf
-- 👀 I’m interested in Source Engine and IW3 Engine too !
-- 🌱 I’m currently learning the mod tool for Cod5.
+- 👀 I’m interested in Source Engine.
+- 🌱 I’m currently learning blender for the Source Engine.
 - 📫 How to reach me :
-- Twitter : https://twitter.com/gmod_y
+- Twitter : https://twitter.com/Mazdothewolf
 - Steam : https://steamcommunity.com/id/mazdothewolf/
 
 <!---
